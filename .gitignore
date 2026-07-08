@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datasets (large files should not be pushed to GitHub)
+*.csv
+
+# Saved output images
+saliency_sample_*.png
