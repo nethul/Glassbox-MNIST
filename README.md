@@ -6,7 +6,6 @@
 
 > A lightweight, fully connected neural network built entirely from scratch in NumPy, featuring Vanilla Saliency Maps to visualize *exactly* what the network is "looking at" when classifying digits.
 
-*(Insert your 3-panel matplotlib overlay image here! Example below:)*
 <p align="center">
   <img width="1200" height="400" alt="saliency_sample_11" src="https://github.com/user-attachments/assets/fc494ac1-66d6-4590-845c-17e54c7e6278" />
 </p>
